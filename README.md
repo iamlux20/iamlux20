@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iamlux20
-- 👀 I’m interested in developing Laravel web apps and mobile apps with Flutter. Other skills include Tailwind, Bootstrap, JS vanilla, and other PHP variants.
-- 🌱 I’m currently learning the in-depth mechanics of Laravel
-- 📫 You can reach me here or at Twitter @iamlux20
+- 👀 I’m interested in developing Laravel web apps and mobile apps with Flutter. Other skills include Bootstrap, JS vanilla, and Livewire.
+- 🌱 I’m currently learning the in-depth mechanics of Laravel and Livewire
+- 📫 You can reach me here
